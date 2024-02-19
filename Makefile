@@ -14,7 +14,8 @@ epub: $(SOURCES) outputDirs
            
 html:  $(SRCS) outputDirs
 	pandoc --embed-resources=true --standalone \
-           -t html5\
+           -t html5 \
+           --toc \
            --css=style.epub.css \
            --top-level-division=chapter \
            --metadata pagetitle="Demi-Gods and Semi-Devils (天龍八部) by Jin Yong" \
