@@ -21,7 +21,9 @@ Translated by
   ~ Chapter 19 (forgot password, Moinllieon)
   ~ Chapter 25 (Xaari, d4rksinz)
   ~ Chapter 45 (infinityex, wuxiabeginner, Justin13)
-Original Translation appeares at
+  
+  
+Original Translation appeares at 
 
 http://www.spcnet.tv/forums/showthread.php/17474-Demi-God-Semi-Devils#.W0rpoNIzaM9
 
